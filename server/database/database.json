@@ -1,0 +1,21 @@
+[
+ {
+  "organization": "Bragger",
+  "products": [
+   "Programmer",
+   "Hazard"
+  ],
+  "marketValue": "50%",
+  "address": "Lekki",
+  "ceo": "bn",
+  "country": "Nigeria",
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ],
+  "id": 1,
+  "createdAt": "2021-07-31T11:32:20.246Z",
+  "updatedAt": "2021-07-31T11:32:20.246Z"
+ }
+]
